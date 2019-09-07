@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2595213f626abcddddd25fa5985819d6",
+    "revision": "e060a1a09fa52cc46131a7c7693ab166",
     "url": "/ScribeAR/index.html"
   },
   {
-    "revision": "f8142d64de8441d912f0",
+    "revision": "63c9ec02beedf70c23fb",
     "url": "/ScribeAR/static/css/main.60d71d04.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ScribeAR/static/js/2.b7f73679.chunk.js"
   },
   {
-    "revision": "f8142d64de8441d912f0",
-    "url": "/ScribeAR/static/js/main.458df0ee.chunk.js"
+    "revision": "63c9ec02beedf70c23fb",
+    "url": "/ScribeAR/static/js/main.3e1d41e4.chunk.js"
   },
   {
     "revision": "08c05a5f75f5818c0770",
