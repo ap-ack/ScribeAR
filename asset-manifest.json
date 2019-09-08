@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ScribeAR/static/css/main.60d71d04.chunk.css",
-    "main.js": "/ScribeAR/static/js/main.3e1d41e4.chunk.js",
-    "main.js.map": "/ScribeAR/static/js/main.3e1d41e4.chunk.js.map",
+    "main.css": "/ScribeAR/static/css/main.dc93d613.chunk.css",
+    "main.js": "/ScribeAR/static/js/main.78a5f30d.chunk.js",
+    "main.js.map": "/ScribeAR/static/js/main.78a5f30d.chunk.js.map",
     "runtime~main.js": "/ScribeAR/static/js/runtime~main.3e1e70df.js",
     "runtime~main.js.map": "/ScribeAR/static/js/runtime~main.3e1e70df.js.map",
-    "static/js/2.b7f73679.chunk.js": "/ScribeAR/static/js/2.b7f73679.chunk.js",
-    "static/js/2.b7f73679.chunk.js.map": "/ScribeAR/static/js/2.b7f73679.chunk.js.map",
+    "static/js/2.aa5e375a.chunk.js": "/ScribeAR/static/js/2.aa5e375a.chunk.js",
+    "static/js/2.aa5e375a.chunk.js.map": "/ScribeAR/static/js/2.aa5e375a.chunk.js.map",
     "index.html": "/ScribeAR/index.html",
-    "precache-manifest.c6ba0c070838223e69574c5d1d71b2f4.js": "/ScribeAR/precache-manifest.c6ba0c070838223e69574c5d1d71b2f4.js",
+    "precache-manifest.60dcb98028a532e4b3c403a023224fca.js": "/ScribeAR/precache-manifest.60dcb98028a532e4b3c403a023224fca.js",
     "service-worker.js": "/ScribeAR/service-worker.js",
-    "static/css/main.60d71d04.chunk.css.map": "/ScribeAR/static/css/main.60d71d04.chunk.css.map"
+    "static/css/main.dc93d613.chunk.css.map": "/ScribeAR/static/css/main.dc93d613.chunk.css.map"
   }
 }
